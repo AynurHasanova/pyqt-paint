@@ -12,8 +12,8 @@ from PyQt5.QtCore import Qt, QSize
 import platform
 import sys
 
-from src.Painter import Painter
-from src.Tools import Tools
+from Painter import Painter
+from Tools import Tools
 
 
 class PaintingApplication(QMainWindow):  # documentation https://doc.qt.io/qt-5/qmainwindow.html
